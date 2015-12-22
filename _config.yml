@@ -12,6 +12,7 @@ tagline:          '. A Journey Through Front End Web Development'
 description:      '&lt;software-developer&gt; <br>A Journey Through Front End Web Development. Follow <a href="https://twitter.com/andrewgurung" target="_blank">@andrewgurung</a>.'
 url:              http://andrewgurung.github.io
 baseurl:          /
+feedurl:          /atom.xml
 
 author:
   name:           'Andrew Gurung'
@@ -24,6 +25,3 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/andrewgurung/
-  
-# This is the list of pages to include in the header of the website
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
