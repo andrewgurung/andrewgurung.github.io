@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Andrew? Who is he?
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<img src="https://avatars3.githubusercontent.com/u/6941709?v=3&s=460" width="200" height="200" alt='Andrew Gurung Avatar'/>
 
-There are currently two themes built on Poole:
+My name is Andrew Gurung and I am a software developer based in Maryland, USA. I help clients build products that make the world better. I have experience working with the entire stack, but my passion is on front-end. I find the fast-pace of front-end development to be a challenge, one that has me continually learning.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Technologies I love playing with include; [Node.js](https://nodejs.org/en/), Java, Javascript (passionate about ES6) and [React.js](https://facebook.github.io/react/)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+When I’m not programming, you can find me strength training, fishing or trying my hands on photography.
 
-## Setup
+I like to write mostly about software development related things. I also post my experience learning new technology, languages, libraries and frameworks (you name it).
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you like my website, you can follow me on twitter [@andrewgurung](https://twitter.com/andrewgurung).
 
 Thanks for reading!
