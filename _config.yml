@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Andrew Gurung
 tagline:          'Portfolio'
-description:      '&lt;software-developer&gt; A Journey Through Front End Web Development. Follow <a href="https://twitter.com/andrewgurung" target="_blank">@andrewgurung</a>.'
+description:      '&lt;software-developer&gt; <br>A Journey Through Front End Web Development. Follow <a href="https://twitter.com/andrewgurung" target="_blank">@andrewgurung</a>.'
 url:              http://andrewgurung.github.io
 baseurl:          /
 
