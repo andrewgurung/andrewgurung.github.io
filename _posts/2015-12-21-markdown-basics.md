@@ -1,3 +1,8 @@
+---
+layout: post
+title: Markdown basics
+---
+
 Note: ***Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML***
 
 ### 1. Multiple lines [Code Snippet]###
