@@ -89,9 +89,9 @@ Syntax: \[Title](URL)
 Snippet:
 
 ```
-[Visit GitHub!](https://www.github.com)
+[Visit My GitHub!](https://www.github.com/andrewgurung)
 ```
 
 Result:
 
-[Visit GitHub!](https://www.github.com)
+[Visit My GitHub!](https://www.github.com/andrewgurung)
