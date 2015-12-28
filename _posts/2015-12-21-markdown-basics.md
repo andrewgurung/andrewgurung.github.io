@@ -24,6 +24,25 @@ Result:
 console.log("Markdown Basics");
 ```
 
+##Language specific markdown code blocks: Javascript <br/>##
+Syntax: Enclose codes within triple backticks \` \` \`js
+
+Snippet:
+
+```
+` ` `js
+var bar = 'Bar';
+var foo = {b: bar};
+` ` `
+```
+
+Result:
+
+```js
+var bar = 'Bar';
+var foo = {b: bar};
+```
+
 ### 2. Headings###
 
 Snippet:
