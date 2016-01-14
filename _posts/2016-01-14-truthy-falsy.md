@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Truthy & Falsy Values in Javascript
+title: Truthy & Falsy values in Javascript
 comments: true
 ---
 
