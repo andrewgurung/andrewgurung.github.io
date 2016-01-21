@@ -3,7 +3,6 @@ layout: post
 title: Equality in Javascript == Vs ===
 comments: true
 ---
-# Equality in Javascript == Vs ===
 
 There are two ways of comparing equality in Javascript.
 
