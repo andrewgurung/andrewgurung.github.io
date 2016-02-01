@@ -4,7 +4,6 @@ title: Hiding in Plain Scope
 comments: true
 ---
 
-## Hiding in Plain scope
 * You can hide variables and functions by enclosing them in the scope of a function.  
 * Inspired by the Principle of Least Privilege which states that you should expose only minimally and hide everything else.
 * Another benefit of hiding variables and functions is to avoid unintended collision of identifiers.
