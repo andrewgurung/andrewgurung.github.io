@@ -61,4 +61,4 @@ var MyBestJSLibrary = {
 };
 ```
 
-Reference: You Don't Know JS: Scope & Closures By Kyle Simpson
+**Reference:**  Scope & Closures *By Kyle Simpson*
