@@ -8,21 +8,21 @@ comments: true
 - Solid alternative to deprecated so called `arguments` array
 
 ### Syntax
-1. Function call
+1. Function call  
 
-  ```js
+  ```
   foo(...[1,2,3]);
   ```
 
-2. Array Literal  
+2. Array Literal    
 
-  ```js
+  ```
   var b = [ 1, ...a, 5 ];
   ```
 
-3. Function parameters
+3. Function parameters  
 
-  ```js
+  ```
   function foo(x, y, ...z) { /* .. */ }
   ```
 
