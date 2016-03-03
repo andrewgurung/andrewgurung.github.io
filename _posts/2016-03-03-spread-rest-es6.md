@@ -10,21 +10,21 @@ comments: true
 ### Syntax
 1. Function call
 
-```js
-foo(...[1,2,3]);
-```
+  ```js
+  foo(...[1,2,3]);
+  ```
 
 2. Array Literal  
 
-```js
-var b = [ 1, ...a, 5 ];
-```
+  ```js
+  var b = [ 1, ...a, 5 ];
+  ```
 
 3. Function parameters
 
-```js
-function foo(x, y, ...z) { /* .. */ }
-```
+  ```js
+  function foo(x, y, ...z) { /* .. */ }
+  ```
 
 ### Spread
 - Used infront of an array to spread/expand out into its individual values
