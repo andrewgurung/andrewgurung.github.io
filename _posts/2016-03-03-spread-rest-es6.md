@@ -9,19 +9,16 @@ comments: true
 
 ### Syntax
 1. Function call  
-
   ```
   foo(...[1,2,3]);
   ```
 
 2. Array Literal    
-
   ```
   var b = [ 1, ...a, 5 ];
   ```
 
 3. Function parameters  
-
   ```
   function foo(x, y, ...z) { /* .. */ }
   ```
