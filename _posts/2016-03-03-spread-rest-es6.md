@@ -8,6 +8,7 @@ comments: true
 - Solid alternative to deprecated so called `arguments` array
 
 ### Syntax
+
 1. Function call  
   ```
   foo(...[1,2,3]);
