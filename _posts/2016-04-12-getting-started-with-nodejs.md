@@ -22,7 +22,7 @@ There are different ways of getting Node.js:
 $ git clone https://github.com/creationix/nvm.git ~/nvm
 ```
 
-- Use `source` command load function file(nvm.sh) into the command prompt:
+- Use `source` command load function file(nvm.sh) into the command prompt:  
 
 ```shell
 $ . ~/nvm/nvm.sh
