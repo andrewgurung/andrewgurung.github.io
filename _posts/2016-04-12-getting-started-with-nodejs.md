@@ -8,12 +8,13 @@ comments: true
 
 There are different ways of getting Node.js:  
 
-1. Downloading installers or binaries  
-
+1. Downloading installers or binaries
   - https://nodejs.org/en/download/  
-2. Build from source code  
-3. For OSX and Linux environment, manage multiple version using `nvm` tool  
-    - We will be installing Node.js using the `nvm` tool for OSX  
+
+2. Build from source code
+
+3. For OSX and Linux environment, manage multiple version using `nvm` tool
+  - We will be installing Node.js using the `nvm` tool for OSX  
 
 ### Installing Node Version Manager `nvm` tool  
 
