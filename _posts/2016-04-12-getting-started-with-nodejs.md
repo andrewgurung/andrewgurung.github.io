@@ -93,7 +93,7 @@ undefined
     res.writeHead(200, { 'Content-Type': 'text/plain' });
     res.end('Node Intro\n');
   }).listen(port, hostname, () => {
-    console.log(`Server running at http://${hostname}:${port}/`);
+    console.log('Server running at http://${hostname}:${port}/');
   });
   ```
 - Then run `$ node server.js`
