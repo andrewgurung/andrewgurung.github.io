@@ -23,43 +23,52 @@ $ git clone https://github.com/creationix/nvm.git ~/nvm
 ```
 
 - Use `source` command load function file(nvm.sh) into the command prompt:
+
 ```shell
 $ . ~/nvm/nvm.sh
 ```
 
 - Test nvm:
+
 ```shell
 $ nvm
 ```
 
 ### Installing Node.js using `nvm` tool
+
 - Install multiple versions of node:
+
 ```shell
 $ nvm install v4.4.2
 $ nvm install v5.10.1
 ```
 
 - List installed node versions:
+
 ```shell
 $ nvm ls
 ```
 
 - Display current version:
+
 ```shell
 $ node -v
 ```
 
 - Switch node version:
+
 ```shell
 $ nvm use v4.2.2
 ```
 
 - Set Alias default:
+
 ```shell
 $ nvm alias default v5.10.1
 ```
 
 - Run node (Enters REPL[Read Eval Print Loop] Terminal):
+
 ```shell
 $ node
 > console.log("Node Intro");
@@ -73,6 +82,7 @@ undefined
 
 ### Running a simple web server
 - Create a `server.js` file
+
   ```js
   const http = require('http');
 
