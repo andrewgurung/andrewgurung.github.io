@@ -63,7 +63,7 @@ bootstrap/
 
 Start by copying the HTML below to begin a minimal Bootstrap document
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -273,7 +273,8 @@ For example:
   lessc bootstrap.less > bootstrap.css
   ```
 
-  For the minified version, use this instead:
+  For the minified version, use this instead:  
+  
   ```
   lessc --compress bootstrap.less > bootstrap.min.css
   ```
@@ -294,6 +295,6 @@ For example:
 @import "../bootstrap/less/utilities.less";
 ```
 
-Resources:
+Resources:  
 - [Tomislav Bacinger's post from Toptol.com](https://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how)  
 - [Thomas Park's post from Smashing Magazine](https://www.smashingmagazine.com/2013/03/customizing-bootstrap/)
