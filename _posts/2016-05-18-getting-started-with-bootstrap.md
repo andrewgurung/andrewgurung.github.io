@@ -29,6 +29,7 @@ comments: true
   2. JavaScript files
   3. Font files: Glyphicons fonts folder should be on the same level as the CSS folder
 - HTML: HTML templates can be copied and modified from Bootstrap tutorial page
+
 ```
 bootstrap/
 ├── css/
