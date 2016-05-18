@@ -62,6 +62,7 @@ bootstrap/
   - Include HTML5 shim and Respond.js
 
 Start by copying the HTML below to begin a minimal Bootstrap document
+
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -184,6 +185,7 @@ Start by copying the HTML below to begin a minimal Bootstrap document
 - `.btn-group`:  Group a series of buttons together into a single line
 - Button dropdowns: Use any button to trigger a dropdown menu by placing it within a .btn-group and providing the proper menu markup.
 - For example, Country Selection dropdown
+
 ```html
 <div class="btn-group">
   <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
@@ -243,6 +245,7 @@ Start by copying the HTML below to begin a minimal Bootstrap document
     - This is always the last file to be imported, in order for the classes that it contains to override the rest of the styles where necessary
 
 For example:
+
 - The following `.less` file looks pretty similar to css
 - Things to notice:
   - `@baseFontSize`: `variable` defined in `variables.less`
@@ -260,20 +263,20 @@ For example:
 #### Installing LESS
 1. Install less using Node Package Manager (NPM)
 
-```
-npm install less
-```
+  ```
+  npm install less
+  ```
 
 2. Compile bootstrap.less
 
-```
-lessc bootstrap.less > bootstrap.css
-```
+  ```
+  lessc bootstrap.less > bootstrap.css
+  ```
 
-For the minified version, use this instead:
-```
-lessc --compress bootstrap.less > bootstrap.min.css
-```
+  For the minified version, use this instead:
+  ```
+  lessc --compress bootstrap.less > bootstrap.min.css
+  ```
 
 #### Modularizing your changes
 1. Download Bootstrap source code, rename it to `bootstrap` and leave it untouched
@@ -292,5 +295,5 @@ lessc --compress bootstrap.less > bootstrap.min.css
 ```
 
 Resources:
-- [Tomislav Bacinger's post from Toptol.com](https://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how)
+- [Tomislav Bacinger's post from Toptol.com](https://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how)  
 - [Thomas Park's post from Smashing Magazine](https://www.smashingmagazine.com/2013/03/customizing-bootstrap/)
